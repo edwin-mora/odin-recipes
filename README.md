@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is the first project done in the odin project foundations course. It is to practice basic HTML knowledge and it is always good to pracitce no matter what level someone is on. It isn't going to be a pretty website at first if I'm being honest.
